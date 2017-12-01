@@ -1,2 +1,2 @@
 # nginx
-nginx docker image with custom configuration
+Custom Nginx Docker image
